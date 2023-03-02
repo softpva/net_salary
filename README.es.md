@@ -1,13 +1,13 @@
-# **Net Salary**
+# **Salario Neto**
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.pt-br.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)
   
 
-# <pre>**U N D E R   D E V E L O P M E N T**</pre>
+# <pre>**E N    D E S A R R O L L O**</pre>
 
-# About
-> A tool to calculate a worker's net salary simulating various countries or regions
+# Cerca de:
+> Una herramienta para calcular el salario neto de un trabajador simulando varios países o regiones.
 >
 >
 > [![NPM](https://img.shields.io/npm/l/react)](./LICENSE) 
@@ -20,10 +20,3 @@
 > <soft.pva@gmail.com>
 >
 > <https://github.com/softpva>
-
-
-
-
-
-
-
